@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="bunny.png" width="75" alt="Bunny — Lab Assistant" />
+<img src="bunny.png" width="85" alt="BunnyOS — Lab Assistant" />
 
 # LINA'S LAB
-<em>A little lab for big ideas.</em>
+<em>A little lab for big ideas</em>
 
 </div>
 
@@ -15,9 +15,9 @@
 > <br>
 > **Status** &nbsp;`ACTIVE` ●
 > <br>
-> **Lab Assistant** &nbsp;`Bunny` 🐰
+> **Lab Assistant** &nbsp;`BunnyOS` 🐰
 > <br>
-> **Lab ID** &nbsp;`LY-001`
+> **Lab ID** &nbsp;`LY-XXX`
 
 <br>
 
@@ -27,7 +27,7 @@
 
 #### `01 /` Researcher Profile
 
-I'm Lina YAHOUNI, a Biochemistry student with a curiosity for science, technology, and creative problem-solving. This is my little digital lab — a place where I experiment, learn, build, and turn ideas into something tangible.
+I'm Lina YAHOUNI, a Front-end developer & Biochemistry student with a curiosity for science, technology and creative problem-solving. This is my little digital lab, a place where I experiment, learn, build and turn ideas into something tangible.
 
 <br>
 
@@ -44,11 +44,11 @@ I'm Lina YAHOUNI, a Biochemistry student with a curiosity for science, technolog
 
 Current toolkit
 <br>
-`HTML` `CSS` `JavaScript` `Three.js` `Git` `GitHub`
+`HTML` `CSS` `JavaScript` `TypeScript` `Three.js` `React` `Next.js` `Vue` `Angular` `Git` `Webpack`
 
 Currently exploring
 <br>
-`Python` `Backend Development` `MySQL`
+`Python` `Backend development` `Data analysis`
 
 <br>
 
@@ -62,9 +62,9 @@ Currently exploring
 
 #### `05 /` Lab Notebook
 
-> *The notebook is open.*
+> *The notebook is open..*
 > <br>
-> *New experiments, projects, and ideas will be documented here as they take shape.*
+> *New experiments, projects and ideas will be documented here as they take shape.*
 
 <br>
 
@@ -78,7 +78,7 @@ Currently exploring
 <br>
 <br>
 
-<div align="center"><sub>`LY-001` ●</sub></div>
+<div align="center"><sub>● `LY-XXX` ●</sub></div>
 
 <!--
   07 / FROM THE LAB
