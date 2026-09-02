@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="bunny.png" width="85" alt="BunnyOS — Lab Assistant" />
+<img src="bunny.png" width="80" alt="BunnyOS — Lab Assistant" />
 
 # LINA'S LAB 🥼
 <em>A little lab for big ideas</em>
@@ -9,73 +9,106 @@
 
 <br>
 
-> **Researcher** &nbsp;`Lina YAHOUNI`
-> <br>
-> **Field** &nbsp;`Biochemistry`
-> <br>
-> **Status** &nbsp;`ACTIVE` ●
-> <br>
-> **Lab Assistant** &nbsp;`BunnyOS` 🐰
-> <br>
-> **Lab ID** &nbsp;`LY-XXX`
-
-<br>
-
 <hr>
 
 <br>
 
 #### `01 /` Researcher Profile
+<div align="center"><sub><em>specimen record</em></sub></div>
 
-I'm Lina YAHOUNI, a Front-end developer & Biochemistry student with a curiosity for science, technology and creative problem-solving. This is my little digital lab, a place where I experiment, learn, build and turn ideas into something tangible.
+<br>
+
+<div align="center">
+
+<sub>· · · · · · · · · · · · · · · · · · · ·</sub>
+
+<sub>RESEARCHER</sub> — <code>Lina YAHOUNI</code>
+<br>
+<sub>FIELD</sub> — <code>Biochemistry</code>
+<br>
+<sub>STATUS</sub> — <code>ACTIVE</code> ●
+<br>
+<sub>LAB ASSISTANT</sub> — <code>BunnyOS</code> 🐰
+<br>
+<sub>LAB ID</sub> — <code>LY-XXX</code>
+
+<sub>· · · · · · · · · · · · · · · · · · · ·</sub>
+
+</div>
 
 <br>
 
 #### `02 /` Areas of Exploration
+<div align="center"><sub><em>research focus</em></sub></div>
 
-- 🧪 **Biochemistry**
-- 💻 **Technology & Code**
-- 🔬 **Scientific Exploration**
-- 🪄 **Creative Problem-Solving**
+<br>
+
+<div align="center">
+
+<sub>·</sub> `🧪 Biochemistry`&nbsp;&nbsp;&nbsp;&nbsp;<sub>·</sub> `🔬 Scientific Exploration`
+<br><br>
+<sub>·</sub> `💻 Technology & Code`&nbsp;&nbsp;&nbsp;&nbsp;<sub>·</sub> `🪄 Creative Problem-Solving`
+
+</div>
 
 <br>
 
 #### `03 /` Lab Equipment
+<div align="center"><sub><em>inventory</em></sub></div>
 
-Current toolkit
+<br>
+
+<sub>CURRENT TOOLKIT</sub>
 <br>
 `HTML` `CSS` `JavaScript` `TypeScript` `Three.js` `React` `Next.js` `Vue` `Angular` `Git` `Webpack`
 
-Currently exploring
+<br>
+
+<sub>CURRENTLY EXPLORING</sub>
 <br>
 `Python` `Backend development` `Data analysis`
 
 <br>
 
 #### `04 /` Lab Activity
+<div align="center"><sub><em>activity log</em></sub></div>
+
+<br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Linayahouni&theme=github-compact&hide_border=true&hide_title=true&area=true&color=8b8b98&line=a970ff&point=a970ff" alt="Lab Activity" width="100%" />
+<img src="https://ghchart.rshah.org/a970ff/Linayahouni" alt="Lina's GitHub contribution chart" width="100%" />
 </div>
 
 <br>
 
 #### `05 /` Lab Notebook
+<div align="center"><sub><em>notebook entry</em></sub></div>
+
+<br>
 
 > *The notebook is open..*
-> <br>
+>
 > *New experiments, projects and ideas will be documented here as they take shape.*
 
 <br>
 
 #### `06 /` Communication
-
-- [GitHub](https://github.com/Linayahouni)
-- [LinkedIn](https://www.linkedin.com/in/lina-djamila-yahouni-4290bb311/)
-- [Instagram](https://www.instagram.com/bunnyy.os/)
-- [Email](mailto:bunnyosgames@gmail.com)
+<div align="center"><sub><em>contact points</em></sub></div>
 
 <br>
+
+<div align="center">
+
+<a href="https://github.com/Linayahouni"><img src="https://cdn.simpleicons.org/github/8b8b98" width="24" height="24" alt="GitHub" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lina-djamila-yahouni-4290bb311/"><img src="https://cdn.simpleicons.org/linkedin/8b8b98" width="24" height="24" alt="LinkedIn" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/bunnyy.os/"><img src="https://cdn.simpleicons.org/instagram/8b8b98" width="24" height="24" alt="Instagram" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:bunnyosgames@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8b8b98" width="24" height="24" alt="Email" /></a>
+
+</div>
+
 <br>
 
 <div align="center"><sub>● `LY-XXX` ●</sub></div>
