@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/bunny.png" width="64" alt="Bunny — Lab Assistant" />
+<img src="bunny.png" width="64" alt="Bunny — Lab Assistant" />
 
 # LINA'S LAB
 <em>A little lab for big ideas.</em>
