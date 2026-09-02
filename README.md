@@ -2,7 +2,7 @@
 
 <img src="bunny.png" width="85" alt="BunnyOS — Lab Assistant" />
 
-# LINA'S LAB
+# LINA'S LAB 🥼
 <em>A little lab for big ideas</em>
 
 </div>
