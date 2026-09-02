@@ -54,8 +54,6 @@ Currently exploring
 
 #### `04 /` Lab Activity
 
-<div align="center"><sub><em>activity log</em></sub></div>
-
 <br>
 
 <div align="center">
