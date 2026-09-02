@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="bunny.png" width="80" alt="BunnyOS — Lab Assistant" />
+<img src="bunny.png" width="85" alt="BunnyOS — Lab Assistant" />
 
 # LINA'S LAB 🥼
 <em>A little lab for big ideas</em>
@@ -9,68 +9,51 @@
 
 <br>
 
+> **Researcher** &nbsp;`Lina YAHOUNI`
+> <br>
+> **Field** &nbsp;`Biochemistry`
+> <br>
+> **Status** &nbsp;`ACTIVE` ●
+> <br>
+> **Lab Assistant** &nbsp;`BunnyOS` 🐰
+> <br>
+> **Lab ID** &nbsp;`LY-XXX`
+
+<br>
+
 <hr>
 
 <br>
 
 #### `01 /` Researcher Profile
-<div align="center"><sub><em>specimen record</em></sub></div>
 
-<br>
-
-<div align="center">
-
-<sub>· · · · · · · · · · · · · · · · · · · ·</sub>
-
-<sub>RESEARCHER</sub> — <code>Lina YAHOUNI</code>
-<br>
-<sub>FIELD</sub> — <code>Biochemistry</code>
-<br>
-<sub>STATUS</sub> — <code>ACTIVE</code> ●
-<br>
-<sub>LAB ASSISTANT</sub> — <code>BunnyOS</code> 🐰
-<br>
-<sub>LAB ID</sub> — <code>LY-XXX</code>
-
-<sub>· · · · · · · · · · · · · · · · · · · ·</sub>
-
-</div>
+I'm Lina YAHOUNI, a Front-end developer & Biochemistry student with a curiosity for science, technology and creative problem-solving. This is my little digital lab, a place where I experiment, learn, build and turn ideas into something tangible.
 
 <br>
 
 #### `02 /` Areas of Exploration
-<div align="center"><sub><em>research focus</em></sub></div>
 
-<br>
-
-<div align="center">
-
-<sub>·</sub> `🧪 Biochemistry`&nbsp;&nbsp;&nbsp;&nbsp;<sub>·</sub> `🔬 Scientific Exploration`
-<br><br>
-<sub>·</sub> `💻 Technology & Code`&nbsp;&nbsp;&nbsp;&nbsp;<sub>·</sub> `🪄 Creative Problem-Solving`
-
-</div>
+- 🧪 **Biochemistry**
+- 💻 **Technology & Code**
+- 🔬 **Scientific Exploration**
+- 🪄 **Creative Problem-Solving**
 
 <br>
 
 #### `03 /` Lab Equipment
-<div align="center"><sub><em>inventory</em></sub></div>
 
-<br>
-
-<sub>CURRENT TOOLKIT</sub>
+Current toolkit
 <br>
 `HTML` `CSS` `JavaScript` `TypeScript` `Three.js` `React` `Next.js` `Vue` `Angular` `Git` `Webpack`
 
-<br>
-
-<sub>CURRENTLY EXPLORING</sub>
+Currently exploring
 <br>
 `Python` `Backend development` `Data analysis`
 
 <br>
 
 #### `04 /` Lab Activity
+
 <div align="center"><sub><em>activity log</em></sub></div>
 
 <br>
@@ -82,18 +65,14 @@
 <br>
 
 #### `05 /` Lab Notebook
-<div align="center"><sub><em>notebook entry</em></sub></div>
-
-<br>
 
 > *The notebook is open..*
->
+> <br>
 > *New experiments, projects and ideas will be documented here as they take shape.*
 
 <br>
 
 #### `06 /` Communication
-<div align="center"><sub><em>contact points</em></sub></div>
 
 <br>
 
