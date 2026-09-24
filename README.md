@@ -78,7 +78,7 @@ Currently exploring
 
 <a href="https://github.com/Linayahouni"><img src="https://cdn.simpleicons.org/github/8b8b98" width="24" height="24" alt="GitHub" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="[https://www.linkedin.com/in/lina-djamila-yahouni-4290bb311/](https://www.linkedin.com/in/lina-yahouni-4320b1311/)"><img src="https://cdn.simpleicons.org/linkedin/8b8b98" width="24" height="24" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/lina-yahouni-4320b1311/"><img src="https://cdn.simpleicons.org/linkedin/8b8b98" width="24" height="24" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/bunnyy.os/"><img src="https://cdn.simpleicons.org/instagram/8b8b98" width="24" height="24" alt="Instagram" /></a>
 &nbsp;&nbsp;&nbsp;
